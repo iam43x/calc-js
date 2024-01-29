@@ -1,0 +1,16 @@
+#calc-input-div {
+    text-align: center;
+    margin-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+#calc-table-result-div {
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#calc-table-result {
+    visibility: hidden;
+}
